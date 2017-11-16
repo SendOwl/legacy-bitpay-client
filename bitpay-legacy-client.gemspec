@@ -1,4 +1,4 @@
-require './lib/bitpay/version.rb'
+require './lib/legacybitpay/version.rb'
 Gem::Specification.new do |s|
   s.name = 'bitpay-legacy-client'
   s.version = BitPayLegacy::VERSION
